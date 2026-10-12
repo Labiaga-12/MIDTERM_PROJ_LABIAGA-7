@@ -1,0 +1,43 @@
+
+h1 {
+    color: rgb(46, 23, 64);
+    background-color: #8C338C;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(75, 39, 103);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(46, 23, 64);
+}
+
+h4 {
+    color: rgb(46, 23, 64);
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: rgb(75, 39, 103);
+}
+
+h6 {
+    text-align: center;
+}
+
+p {
+    color: rgb(46, 23, 64);
+    text-align: center;
+}
+
+ol, ul {
+    color: rgb(46, 23, 64);
+    text-align: center;
+}
+
+body {
+    background-color: #c9a6b8;
+}
